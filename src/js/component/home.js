@@ -4,7 +4,7 @@ export function TrafficLight() {
 	const [color, setColor] = useState();
 	return (
 		<div className="wrapper">
-			<div className="trafficLight">
+			<div className="traffic-light">
 				<div className="lineHandle"></div>
 				<div className="container">
 					<div
